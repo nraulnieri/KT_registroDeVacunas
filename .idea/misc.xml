@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_aplicador.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_carnet.xml" value="0.25" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_centro_vacunacion.xml" value="0.21" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_detcarnet.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_detingreso.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_especialidad.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_ingreso.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_laboratorio.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_lote.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_ocupacion.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_persona.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_ubicacion.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_usuario.xml" value="0.209375" />
+        <entry key="..\:/Users/CibercontS2/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_vacuna.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/drawable/background_db.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/drawable/button_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/drawable/ic_detalle_ingreso_48.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.171875" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1484375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/drawable/ic_vacuna_48.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_aplicador.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_carnet.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_centro_vacunacion.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_det_carnet.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_detcarnet.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_detingreso.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_especialidad.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_hospital.xml" value="0.25" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_ingreso.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_laboratorio.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_lote.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_medico.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_ocupacion.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_persona.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_register.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_ubicacion.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_usuario.xml" value="0.209375" />
+        <entry key="..\:/Users/dreic/AndroidStudioProjects/vacunas_v1/app/src/main/res/layout/activity_vacuna.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

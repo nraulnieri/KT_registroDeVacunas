@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="daps.pango.vacunas_v1">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:usesCleartextTraffic="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Vacunas_v1">
+        <activity
+            android:name=".UI.LoteActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.EspecialidadActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.VacunaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.PersonaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.UbicacionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.OcupacionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.CentroDeVacunacionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.AplicadorActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.DetingresoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.IngresoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.DetCarnetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.LaboratorioActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.CarnetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.UsuarioActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UI.HomeActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
